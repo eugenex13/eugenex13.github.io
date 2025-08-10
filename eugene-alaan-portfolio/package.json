@@ -1,0 +1,32 @@
+{
+  "name": "eugene-alaan-portfolio",
+  "version": "1.0.0",
+  "description": "A portfolio website for Eugene S. Alaan, showcasing his work as a WordPress developer.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [
+    "portfolio",
+    "wordpress",
+    "developer",
+    "react"
+  ],
+  "author": "Eugene S. Alaan",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "4.0.3",
+    "framer-motion": "^4.1.17"
+  },
+  "devDependencies": {},
+  "homepage": "https://eugene-alaan-portfolio.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eugene-alaan/eugene-alaan-portfolio.git"
+  }
+}
