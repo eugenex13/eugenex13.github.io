@@ -3027,3 +3027,16 @@ ul.social-intro li a:hover i {
     font-size: 14px;
   }
 }
+
+/* New CSS changes */
+
+.coming-soon{
+      font-size: 120px;
+    font-weight: bold;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: 25vh;
+}
