@@ -61,7 +61,7 @@ section#blog .post-date,
 .back-mobile,
 .page-title .title-head-subtitle:before,
 .page-title .title-head-subtitle:after{
-	background-color: #F76E73 !important;
+	background-color: #F76E73;
 }
 
 .contact-container ul.social-intro li a,
